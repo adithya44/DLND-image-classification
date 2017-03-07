@@ -13,3 +13,8 @@ In this project we had to build and run a [convolutional neural network](https:/
 - Max pooling
 - Dropout
 - TensorFlow
+- Cloud Computing
+
+#### Project Review
+
+[Meets Specifications](https://review.udacity.com/#!/reviews/395739/shared)
